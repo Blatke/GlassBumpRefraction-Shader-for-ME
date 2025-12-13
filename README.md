@@ -1,24 +1,24 @@
-# 
-It's a mod as HS2 / AI-Shoujo Accessory / Outfit / Studio Item.
+![AI_2025-12-13-22-37-11-291](https://github.com/user-attachments/assets/e26dd36f-a304-4626-a051-88cf45b1ea07)
+
+# GlassBumpRefraction Shader for ME
+It's a shader mod for HS2 / AI-Shoujo Studio, letting an object be rendered as a refractive glass.
 
 ## How to Use
-Download the **.zipmod** file for the latest version on the [Release](https://github.com/Blatke//releases) Page, then drag and drop it into your **/mods/** folder to finish installation, or use KKManager to install this mod.
+Download the **.zipmod** file for the latest version on the [Release](https://github.com/Blatke/GlassBumpRefraction-Shader-for-ME/releases) Page, then drag and drop it into your **/mods/** folder to finish installation, or use KKManager to install this mod.
 
-In Chara Maker, go to the Outfit / Accessory Panel, on the tab of Top / Shoes / Chest, search by "blake" or the item name, referred on the list below, in the textbox to find the mod, and add it to your character.
+In Studio, select the object you want to change the shader, and open MaterialEditor tab. Assign _Shader_ option to **Blake/GlassBumpRefraction**. In the following figure, I changed the shader of the plane item to this Shader.
 
-In Studio, seach for "blake" or the item name, referred on the list below, in the QuickAccessBox tab to find the mod, and add it in your scene.
+![AI_2025-12-13-22-37-45-547](https://github.com/user-attachments/assets/16ba7905-92dc-493f-84e9-b56492e39ad4)
 
-Use MaterialEditor to adjust the color and other parameters. 
+If you don't need the shadow casted by the plane as a glass, can switch off the option of _Shader Casting Mode_ of its material on MaterialEditor tab.
 
-In Studio you can enable the FK function on the Anim tab to activiate the item's FK nodes to rotate. 
-
-## List of Names
+## List of Properties
 
 
 ## About Me
 Bl@ke
 
-Front Page: http://www.blatke.cc
+Front Page: https://www.blatke.cc
 
 Discord Server: https://discord.gg/nc5pmnf8X3
 
