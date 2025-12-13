@@ -18,7 +18,7 @@ If you don't need the shadow casted by the plane as a glass, can switch off the 
 
 ![AI_2025-12-13-22-40-43-363](https://github.com/user-attachments/assets/92320389-d1b3-401e-ad90-9a0e12b144a7)
 
-2. **ColorMask** - indicating what parts to have refraction and what part not to. This should be imported an RGB(A) texture, in which the highest value in RGB channels is recognized as full refraction and 0 value means no such refraction. This value is also multiplied by alpha channel. It has a pure white texture by default.
+2. **ColorMask** - indicating what parts to have refraction and what parts not to. This should be imported an RGB(A) texture, in which the highest value in RGB channels is recognized as full refraction and 0 value means no such refraction. This value is also multiplied by alpha channel. It has a pure white texture by default.
 3. **MainTex** - Main map or Albedo.
 ### Colors
 1. **Color** - base color being multiplied by value of MainTex. Alpha channel indicates the transparency.
