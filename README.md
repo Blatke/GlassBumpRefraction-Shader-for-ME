@@ -24,13 +24,14 @@ If you don't need the shadow casted by the plane as a glass, can switch off the 
 1. **Color** - base color being multiplied by value of MainTex. Alpha channel indicates the transparency.
 ### Parameters
 1. **BumpMapScale** - scaling multiplier for BumpMap.
-2. **BumpMapStrength** - intensity of BumpMap.
-3. **BumpMapRotate** - rotation of BumpMap.
-4. **Distortion** - affecting offset of refraction.
-5. **RefractionIndex** - affecting direction of refraction.
-6. **RefractionDepth** - affecting offset of refraction.
-7. **ColorMaskStrength** - multiplier of ColorMask.
-8. **ColorMaskInvert** - when 1.0, ColorMask is flipped.
+2. **BumpMapScale_XY_Ratio** - X/Y ratio in BumpMapScale.
+3. **BumpMapStrength** - intensity of BumpMap.
+4. **BumpMapRotate** - rotation of BumpMap.
+5. **Distortion** - affecting offset of refraction.
+6. **RefractionIndex** - affecting direction of refraction.
+7. **RefractionDepth** - affecting offset of refraction.
+8. **ColorMaskStrength** - multiplier of ColorMask.
+9. **ColorMaskInvert** - when 1.0, ColorMask is flipped.
 
 ## About Me
 Bl@ke
