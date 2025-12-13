@@ -22,7 +22,7 @@ If you don't need the shadow casted by the plane as a glass, can switch off the 
 3. **MainTex** - Main map or Albedo.
 ### Colors
 1. **Color** - base color being multiplied by value of MainTex. Alpha channel indicates the transparency.
-### Values
+### Parameters
 1. **BumpMapScale** - scaling multiplier for BumpMap.
 2. **BumpMapStrength** - intensity of BumpMap.
 3. **BumpMapRotate** - rotation of BumpMap.
