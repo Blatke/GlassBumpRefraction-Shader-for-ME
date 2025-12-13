@@ -14,7 +14,7 @@ If you don't need the shadow casted by the plane as a glass, can switch off the 
 
 ## List of Properties
 ### Maps
-1. **BumpMap** - indicating how the surface does bump and refraction. The following figure shows the effect by importing another bump map.
+1. **BumpMap** - indicating how the surface does bump and refraction. It has a hexagon texture by default. The following figure shows the effect by importing another bump map.
 
 ![AI_2025-12-13-22-40-43-363](https://github.com/user-attachments/assets/92320389-d1b3-401e-ad90-9a0e12b144a7)
 
