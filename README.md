@@ -1,5 +1,5 @@
 # GlassBumpRefraction Shader for ME
-It's a shader mod for HS2 / AI-Shoujo Studio, letting an object be rendered as a refractive glass.
+It's a shader mod for HS2 / AI-Shoujo Studio, letting an object be rendered as a refractive glass. This mod is based on [GlassBumpRefraction.shader](https://github.com/Blatke/GlassBumpRefraction.shader).
 
 ![AI_2025-12-13-22-37-11-291](https://github.com/user-attachments/assets/e26dd36f-a304-4626-a051-88cf45b1ea07)
 
